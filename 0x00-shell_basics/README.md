@@ -1,3 +1,2 @@
-5-listfilesdigitonly
-#!/bin/bash
-ls -lan
+6-firstdirectory
+script that creates a directory named my_first_directory in the /tmp/ directory.
