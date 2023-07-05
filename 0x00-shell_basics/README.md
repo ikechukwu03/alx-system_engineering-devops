@@ -1,2 +1,3 @@
-3-listfiles
-current directory contents in a long format
+5-listfilesdigitonly
+#!/bin/bash
+ls -lan
