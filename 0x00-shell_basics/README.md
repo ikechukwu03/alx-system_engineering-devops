@@ -1,2 +1,2 @@
-7-movethatfile
-move the file
+4-listmorefiles
+current directory contents, including hidden files (starting with .).
